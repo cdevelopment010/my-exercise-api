@@ -3,27 +3,338 @@
         {
             "id": 0, 
             "name": "Bench Press", 
-            "image": "https://cdn2.coachmag.co.uk/sites/coachmag/files/styles/insert_main_wide_image/public/2016/07/1-1-bench-press.jpg?itok=QpV4FR3Z"
+            "image": "https://cdn2.coachmag.co.uk/sites/coachmag/files/styles/insert_main_wide_image/public/2016/07/1-1-bench-press.jpg?itok=QpV4FR3Z",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
         }, 
         {
             "id": 1, 
             "name": "Squat", 
-            "image": ""
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": true
         }, 
         {
             "id": 2, 
             "name": "Deadlift", 
-            "image": ""
+            "image": "",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
         }, 
         {
             "id": 3, 
             "name": "Overhead Press", 
-            "image": ""
+            "image": "",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
         }, 
         {
             "id": 4, 
             "name": "Bentover Row", 
-            "image": ""
+            "image": "",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
+        }, 
+        {
+            "id": 5, 
+            "name": "Press up", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 6, 
+            "name": "Pull up", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 7, 
+            "name": "Pull up", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 8, 
+            "name": "Bulgarian split squat", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": true
+        },
+        {
+            "id": 9, 
+            "name": "Romanian deadlift", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 10, 
+            "name": "Lunge", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": true
+        },
+        {
+            "id": 11, 
+            "name": "Glute bridge", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": true
+        },
+        {
+            "id": 12, 
+            "name": "Calf raises", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": true
+        },
+        {
+            "id": 13, 
+            "name": "Lat pull down", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 14, 
+            "name": "Good mornings", 
+            "image": "",
+            "type": "Isometic", 
+            "HIIT": true,
+            "Weights": true
+        },
+        {
+            "id": 15, 
+            "name": "Superman", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 16, 
+            "name": "Dumbbell shurgs", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 17, 
+            "name": "Dumbbell chest fly", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 18, 
+            "name": "Arnold press", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 19, 
+            "name": "Lat raises", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 20, 
+            "name": "Upright row", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 21, 
+            "name": "Bicep curl", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 22, 
+            "name": "Hammer curl", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 23, 
+            "name": "Tricep dips", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": true
+        },
+        {
+            "id": 24, 
+            "name": "Skull crushers", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 25, 
+            "name": "Tricep kickbacks", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": false,
+            "Weights": true
+        },
+        {
+            "id": 26, 
+            "name": "Situps", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": true
+        },
+        {
+            "id": 27, 
+            "name": "V-sits", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 28, 
+            "name": "Bicycle kicks", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 29, 
+            "name": "Russian twists", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": true
+        },
+        {
+            "id": 30, 
+            "name": "Commandos", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 31, 
+            "name": "Plank", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 32, 
+            "name": "Wall sit", 
+            "image": "",
+            "type": "Isometric", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 33, 
+            "name": "Jumping jacks", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 34, 
+            "name": "High knees", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 35, 
+            "name": "Jog", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 36, 
+            "name": "Sprint", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 37, 
+            "name": "Mountain climbers", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 38, 
+            "name": "Shadow boxing", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 39, 
+            "name": "Burpees", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 40, 
+            "name": "Tuck jump", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
+        },
+        {
+            "id": 41, 
+            "name": "Squat jacks", 
+            "image": "",
+            "type": "Compund", 
+            "HIIT": true,
+            "Weights": false
         }
     ]
 }
